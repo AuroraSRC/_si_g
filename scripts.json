@@ -1,16 +1,16 @@
 [
    {
-      "title":"Fly",
-      "credits": "by unknown",
-      "desc" : "Press E to fly! May be a bit broken.",
-      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GeneralScripts/Fly.lua\"))()",
-      "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GeneralScripts/Fly.png"
+      "title":"Infinite Yield",
+      "credits": "by EdgeIY",
+      "desc" : "A very well maintained and developed common script with many useful utilities.",
+      "script":"loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()",
+      "imgurl" : "https://infyiff.github.io/resources/Logo_Small.png"
    },
    {
-      "title":"Infinite Yield",
-      "credits": "by EdgeIY (I think)",
-      "desc" : "A very well maintained and developed common script with many useful utilities.",
-      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GeneralScripts/Infinite%20Yield.lua\"))()",
-      "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GeneralScripts/InfiniteYield.png"
+      "title":"CMD X",
+      "credits": "by CMD X",
+      "desc" : "A ROBLOX admin script with over 600 commands. Under reformation, V2.0.0 coming soon or something I guess.",
+      "script":"loadstring(game:HttpGet('https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source', true))()",
+      "imgurl" : "https://infyiff.github.io/resources/Logo_Small.png"
    },
 ]
